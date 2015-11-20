@@ -1,0 +1,17 @@
+body {
+    background: #000;
+    margin: 0;
+    padding: 0;
+}
+
+#container {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    /*background: #fff;*/
+}
+
+#center {
+    margin: 50px auto;
+    width: 1000px;
+}
